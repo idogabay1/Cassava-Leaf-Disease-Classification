@@ -2,12 +2,21 @@
 In this project we will classify the diseases of the Cassava Leaf to 5 categories. We will train on imbalanced train-set but measure he result on balanced test-set
 Pytorch implementation.
 Based on Cassava Leaf Disease Classification [dataset from Kaggle](https://www.kaggle.com/c/cassava-leaf-disease-classification)
-you can find our presentation no [Youtube](https://youtu.be/yg20D6vt6BA)
+you can find our presentation on [Youtube](https://youtu.be/yg20D6vt6BA)
 
 - [Cassava-Leaf-Disease-Classification](#Cassava-Leaf-Disease-Classification)
   * [Background](#Background)
   * [Files in the repository](#Files-in-the-repository)
   * [References](#References)
+  
+  ![3852521](https://user-images.githubusercontent.com/81647059/124014048-b27cd700-d9eb-11eb-8776-601fa6e6ef60.jpg)
+![31445437](https://user-images.githubusercontent.com/81647059/124014076-bb6da880-d9eb-11eb-9d9e-43cf718fff4e.jpg)
+![177414500](https://user-images.githubusercontent.com/81647059/124014120-ca545b00-d9eb-11eb-9947-1962fc512d6b.jpg)
+![205418485 jpg_copy3](https://user-images.githubusercontent.com/81647059/124014153-d50ef000-d9eb-11eb-8794-4c58ccc567ab.jpg)
+
+  
+  
+  
   
   
 # Background
