@@ -4,11 +4,11 @@ Pytorch implementation.
 Based on Cassava Leaf Disease Classification [dataset from Kaggle](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 you can find our presentation on [Youtube](https://youtu.be/yg20D6vt6BA)
 
-- [Cassava-Leaf-Disease-Classification](Cassava-Leaf-Disease-Classification)
+- [Cassava-Leaf-Disease-Classification](#Cassava-Leaf-Disease-Classification)
   * [Background](#Background)
   * [Files in the repository](#Files-in-the-repository)
-  * [Networks](Networks)
-  * [References](References)
+  * [Networks](#Networks)
+  * [References](#References)
   
 ![3852521](https://user-images.githubusercontent.com/81647059/124014048-b27cd700-d9eb-11eb-8776-601fa6e6ef60.jpg)
 ![177414500](https://user-images.githubusercontent.com/81647059/124014120-ca545b00-d9eb-11eb-9947-1962fc512d6b.jpg)
