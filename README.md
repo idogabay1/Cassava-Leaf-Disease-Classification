@@ -4,10 +4,11 @@ Pytorch implementation.
 Based on Cassava Leaf Disease Classification [dataset from Kaggle](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 you can find our presentation on [Youtube](https://youtu.be/yg20D6vt6BA)
 
-- [Cassava-Leaf-Disease-Classification](#Cassava-Leaf-Disease-Classification)
-  * [Background](#Background)
-  * [Files in the repository](#Files-in-the-repository)
-  * [References](#References)
+- [Cassava-Leaf-Disease-Classification](Cassava-Leaf-Disease-Classification)
+  * [Background](Background)
+  * [Files in the repository](Files-in-the-repository)
+  * [Networks](Networks)
+  * [References](References)
   
 ![3852521](https://user-images.githubusercontent.com/81647059/124014048-b27cd700-d9eb-11eb-8776-601fa6e6ef60.jpg)
 ![177414500](https://user-images.githubusercontent.com/81647059/124014120-ca545b00-d9eb-11eb-9947-1962fc512d6b.jpg)
@@ -37,7 +38,7 @@ to do so we tried few Deep Learning architectures including originals CNN and Re
 we used google colab to run our code.
 
 
-# Files in the repository
+# Files-in-the-repository
 
 Both file are well documented. just follow the documentation and you will be fine :)
 
@@ -45,6 +46,14 @@ Both file are well documented. just follow the documentation and you will be fin
 |----------------------|------|
 |`Cassava Leaf Disease Classification on balanced test-set.ipynb`| the main file in Google Colab format. to open import to Google Colab|
 |`Cassava Leaf Disease Classification on balanced test-set.py`| the main file in Python format|
+
+# Networks
+
+In the code file you will find several CNNs.  
+You can choose either one you want.  
+Among the networks you'll find transfer learning using Resnet18 and CNN we created.  
+In the last section you can find Optuna.  
+
 
 # References
 
