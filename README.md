@@ -64,4 +64,4 @@ Optuna: https://optuna.org
 stochastic depth implementaion: https://link.springer.com/chapter/10.1007/978-3-319-46493-0_39    
   
     
-[Go back up](#Cassava-Leaf-Disease-Classification)
+[Go Up](#Cassava-Leaf-Disease-Classification)
