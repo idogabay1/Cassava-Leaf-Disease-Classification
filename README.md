@@ -51,8 +51,8 @@ Both file are well documented. just follow the documentation and you will be fin
 
 In the code file you will find several CNNs.  
 You can choose either one you want.  
-Among the networks you'll find transfer learning using Resnet18 and CNN we created.  
-In the last section you can find Optuna.  
+Among the networks you'll find transfer learning using Resnet18 and CNNs we created.  
+In the last section you can find code for operating Optuna.  
 
 
 # References
