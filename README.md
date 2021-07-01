@@ -5,8 +5,8 @@ Based on Cassava Leaf Disease Classification [dataset from Kaggle](https://www.k
 you can find our presentation on [Youtube](https://youtu.be/yg20D6vt6BA)
 
 - [Cassava-Leaf-Disease-Classification](Cassava-Leaf-Disease-Classification)
-  * [Background](Background)
-  * [Files in the repository](Files-in-the-repository)
+  * [Background](#Background)
+  * [Files in the repository](#Files-in-the-repository)
   * [Networks](Networks)
   * [References](References)
   
